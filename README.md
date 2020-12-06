@@ -1,15 +1,15 @@
 # horiseon
 Horiseon SEO - Challenge 01
 
-**Description
+## Description
 
 Site containing refactored code for a client to make their site compliant with accesibility best practices.
 
-**Screenshot
+## Screenshot
 
 ![Final site](/assets/images/screenshot.png?raw=true "Horiseon SEO")
 
-**Deployed at:
+## Deployed at:
 
 https://bluesatyr.github.io/horiseon/
 
